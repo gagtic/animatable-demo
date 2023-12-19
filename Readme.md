@@ -21,4 +21,4 @@ npx expo start --ios
 
 Preview:
 
-<img src="https://github.com/gagtic/animatable-demo/blob/main/assets/preview.gif" alt="Animated GIF" style="max-width: 50px;">
+<img src="https://github.com/gagtic/animatable-demo/blob/main/assets/preview.gif" alt="Animated GIF" style="max-width: 50px;" width='250'>
